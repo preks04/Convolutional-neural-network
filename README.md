@@ -6,8 +6,8 @@ About the files:
 cnn.py: This is the main file that you will execute. It will read and processing CIFAR10 dataset, and run models.
 
 - There are 2 models:
-  o Simple Model, an example of a convolutional neural network which already implemented.
-  o Complex Model, you have to implement model follow the architecture below.
+    - Simple Model, an example of a convolutional neural network which already implemented.
+    - Complex Model, you have to implement model follow the architecture below.
       - 7x7 Conv with stride 2
       - Relu activation
       - 2x2 Max Pooling
